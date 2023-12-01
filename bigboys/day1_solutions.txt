@@ -1,0 +1,6 @@
+bigboy #1
+url:    https://0x0.st/HxMf.txt
+size:   21M
+lines:  1M
+silver: 55022487
+gold:   55015199
