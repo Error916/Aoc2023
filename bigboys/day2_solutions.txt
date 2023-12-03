@@ -1,0 +1,6 @@
+bigboy #2
+url: https://0x0.st/HxLF.txt.7z
+size:   79M
+lines:  1M
+silver: 71327370192
+gold:   2221048073

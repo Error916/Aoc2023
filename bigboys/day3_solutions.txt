@@ -1,0 +1,6 @@
+bigboy #3
+url:    https://0x0.st/Hxtu.txt
+size:   24M
+grid:   5000x5000
+silver: 258006204
+gold:   17158526595
