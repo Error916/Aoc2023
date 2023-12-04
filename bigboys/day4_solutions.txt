@@ -1,0 +1,6 @@
+bigboy #4
+url:    https://0x0.st/HxE7.txt.7z
+size:   43M
+cards:  200K
+silver: 1475828
+gold:   211552
