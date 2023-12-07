@@ -1,0 +1,6 @@
+bigboy #7
+url:    https://0x0.st/H3Hv.txt
+size:   2.5M
+hands:  200K
+silver: 6678229757944529
+gold:   7246011492564128
