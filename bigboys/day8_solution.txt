@@ -1,0 +1,5 @@
+bigboy #8
+url:    https://0x0.st/H3cq.txt
+size:   1.5M
+silver: 1488003
+gold:   2214154416012
