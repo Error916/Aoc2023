@@ -1,0 +1,6 @@
+bigboy #9
+url:       https://0x0.st/H3SN.txt
+size:      18M
+sequences: 80K
+silver:    8137764536324356
+gold:      7508194
