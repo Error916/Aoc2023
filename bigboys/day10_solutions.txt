@@ -1,0 +1,4 @@
+bigboy #9
+size:      15M
+silver:    5016002
+gold:      5000000
