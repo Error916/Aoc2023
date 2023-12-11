@@ -1,0 +1,7 @@
+bigboy #11
+url:      https://0x0.st/H3tu.txt
+size:     190K
+grid:     440x440
+galaxies: 1600
+silver:   386232597
+gold:     8772424688485
