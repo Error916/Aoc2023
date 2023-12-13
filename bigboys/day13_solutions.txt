@@ -1,0 +1,6 @@
+bigboy #13
+url:      https://0x0.st/H35a.txt.7z
+size:     121M
+patterns: 10K
+silver:   15205432
+gold:     8556366
