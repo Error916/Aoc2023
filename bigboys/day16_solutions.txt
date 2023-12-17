@@ -1,0 +1,4 @@
+bigboy #16
+url: https://0x0.st/HYMM.txt
+silver: 829302
+gold:   829865
