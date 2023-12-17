@@ -1,0 +1,4 @@
+bigboy #17
+size:   1000x1000
+silver: 4505
+gold:   5537
