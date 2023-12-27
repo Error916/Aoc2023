@@ -1,0 +1,4 @@
+bigboy #23
+Intersections: 	56
+Silver:		5266
+Gold:   	20910
